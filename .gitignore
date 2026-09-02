@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 *.exe
+
+# Compiled code
+*.dll
+
 # Distribution / packaging
 .Python
 build/

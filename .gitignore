@@ -2,7 +2,5 @@
 *.so
 *.exe
 
-.vscode/
-
 # Compiled code
 *.dll
